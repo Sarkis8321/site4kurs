@@ -1,4 +1,15 @@
+/*
+let year = prompt('Сколько лет?', '20');
+year = year ?? 18;
+*/
+let a = 1;
+while (a < 10) {
+    console.log(a);
+    a++;
+}
 
-let age = 30;
-age = 100;
-console.log(age);
+for(let i = 1; i < 10; i++) {
+    console.log(i);
+}
+
+
